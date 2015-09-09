@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<title>About</title>
+<head>
+<style>
+a:link    {color:white; background-color:transparent; text-decoration:none}
+a:visited {color:white; background-color:transparent; text-decoration:none}
+a:hover   {color:#D3D3D3; background-color:transparent; text-decoration:none}
+a:active  {color:none; background-color:transparent; text-decoration:none}
+
+.city {
+    float: left;
+    margin: 5px;
+    padding: 15px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+} 
+header {
+    background-color:#000000;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+nav {
+    line-height:30px;
+    background-color:#8A2BE2;
+    height:400px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+section {
+    width:550px;
+    float:left;
+    padding:10px; 
+}
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
+h1 {
+    font-family: "Georgia", Georgia, serif;
+}
+</style>
+</head>
+<body>
+
+
+<header>
+<h1 style="font-family:Georgia"><h1 style="text-align:center"><b>Charles Adelberg</b></h1></h1>
+</header>
+
+<nav>
+<p1 style="color:white"><p1 style="font-family:Georgia"><p1 style="text-align:center"><a href="code2.html">HOME</a></p1><br>
+<p1 style="color:white"><p1 style="font-family:Georgia"><p1 style="text-align:center"><a href="code1.html">ABOUT</a></p1><br>
+<p1 style="color:white"><p1 style="font-family:Georgia"><p1 style="text-align:center"><a href="code3.html">RESUME</a></p1><br>
+<p1 style="color:white"><p1 style="font-family:Georgia"><p1 style="text-align:center"><a href="code4.html">CONTACT</a></p1><br>
+</nav>
+
+<section>
+<p1 style="font-family:arial">Charles Adelberg is an accomplished entrepeneur living in Silicon Valley.</p1>
+</section>
+
+<footer>
+<p>&copy;&nbsp;Charles Adelberg 2015</p>
+</footer>
+
+</body>
+</html>
